@@ -1,4 +1,4 @@
-# We are Tech Chefs 👨‍🍳
+# We are Techchefs 👨‍🍳
 Team del liceo "Alfonso Gatto" di Agropoli per la NAO Challenge
 
 ### 🚀 | Qui è dove puoi trovare i nostri progetti 

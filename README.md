@@ -8,6 +8,7 @@ Team del liceo "Alfonso Gatto" di Agropoli per la NAO Challenge
   
 ### 🏆 | Competizioni passate
 - NAO Challenge 2024 [RoomFindr](https://nao.liceogatto.edu.it/naochallenge2024/) 🧭
+- NAO Challenge 2025 [NAOFit](https://naotechchefs.github.io/)
 
 ### 🛠️ | Strumenti e linguaggi che usiamo 
 <div>
